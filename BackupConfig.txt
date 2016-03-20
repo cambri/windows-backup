@@ -1,0 +1,12 @@
+# Enter file and folder names, one per line.
+C:\Users\User\Desktop
+C:\Users\User\Documents
+C:\Users\User\Pictures
+C:\Users\User\Music
+C:\Users\User\Videos
+C:\Users\User\AppData\Roaming\Sublime Text3
+C:\Users\User\AppData\Roaming\FileZilla
+C:\Users\User\AppData\Roaming\Mozilla
+C:\Keys
+C:\Scripts\BackupScript.bat
+C:\Scipts\BackupConfig.txt
